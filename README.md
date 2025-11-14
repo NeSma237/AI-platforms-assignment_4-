@@ -157,8 +157,7 @@ pip install torch torchvision tensorflow numpy matplotlib opencv-python
 ```
 project/
 │
-├── keras_model.py
-├── pytorch_model.py
+├── keras vs. pytorch.ipynb.py
 ├── README.md
 └── best_model.weights.h5
 ```
