@@ -159,7 +159,7 @@ project/
 │
 ├── keras vs. pytorch.ipynb
 ├── README.md
-└── best_model.weights.h5
+└── weights_adam.weights.h5
 ```
 
 ---
